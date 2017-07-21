@@ -9,7 +9,7 @@ import vk
 
 # TODO:
 # New version for Vkontakte api for module ver 2.0a4 and above
-token = '3f18130f132411eebb3bfbdc113fc00693a09a98626e2703aea2c04b91cebad5088e2466d590d95760674'
+token = 'TOKEN'
 # session = vk.Session(access_token=token)
 vkapi = vk.API(access_token = token)
 # vkapi = vk.API(session)
